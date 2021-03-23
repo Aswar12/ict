@@ -43,7 +43,7 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<img src="<?php echo base_url().'assets/images/logoict.png'?>" alt="">
+				<img src="<?php echo base_url().'assets/images/logoict.png'?>" width='60px'>
 				<h1 ><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
 				<nav role="navigation">
 					<ul>
