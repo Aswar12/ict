@@ -60,13 +60,13 @@
 	<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(<?php echo base_url().'theme/images/slide_3.jpg'?>);">
+		   	<li style="background-image: url(<?php echo base_url().'theme/images/b-gallery.jpg'?>);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h2>Ayo, Maju Bersama!</h2>
-		   					<p class="fh5co-lead"> Mengembangkan Organisasi ICT sebagai wadah untuk kita menjadi anak mudah yang tidak gaptek</p>
+		   					<p class="fh5co-lead"> Mengembangkan Organisasi ICT sebagai wadah untuk kita menjadi pemuda yang tidak gaptek</p>
 		   				</div>
 		   			</div>
 		   		</div>

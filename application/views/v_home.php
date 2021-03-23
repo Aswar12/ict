@@ -63,13 +63,13 @@
 	<aside id="fh5co-hero" class="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(<?php echo base_url().'theme/images/logo.JPG'?>);">
+		   	<li style="background-image: url(<?php echo base_url().'theme/images/slide_1.jpg'?>);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h2>UBAH INFORMASI JADI INOVASI</h2>
-		   					<p><a href="#" class="btn btn-danger btn-outline with-arrow">Akun IG</a></p>
+		   					<p><a href="https://www.instagram.com/ictsmadap/" target="_blank"class="btn btn-danger btn-outline with-arrow">Akun IG</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -84,7 +84,7 @@
 		   			</div>
 		   		</div>
 		   	</li>
-		   	<li style="background-image: url(<?php echo base_url().'theme/images/slide_3.jpg'?>);">
+		   	<li style="background-image: url(<?php echo base_url().'theme/images/3.jpg'?>);">
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">

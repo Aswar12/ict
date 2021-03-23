@@ -54,13 +54,13 @@
 	<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(<?php echo base_url().'theme/images/slide_3.jpg'?>);">
+		   	<li style="background-image: url(<?php echo base_url().'theme/images/b-kontak.jpg'?>);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Jangan Rindu, Rindu itu berat, Bair Aku Saja</h2>
-		   					<p class="fh5co-lead">Langsung Aja Hubungi Alamat yang Tertera! Ok.</p>
+		   					<h2>Jangan Rindu, Rindu itu berat, Biar Aku Saja</h2>
+		   					<p class="fh5co-lead">Kalau butuh bantuan, hubungi yah! Ok.</p>
 		   				</div>
 		   			</div>
 		   		</div>

@@ -55,7 +55,7 @@
 	<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(<?php echo base_url().'theme/images/slide_3.jpg'?>);">
+		   	<li style="background-image: url(<?php echo base_url().'theme/images/b-about.jpg'?>);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
@@ -78,7 +78,7 @@
 		<div class="container">
 			<div class="col-md-6">
 				<figure>
-					<img src="<?php echo base_url().'theme/images/image_1.jpg'?>" alt="Free HTML5 Template" class="img-responsive">
+					<img src="<?php echo base_url().'theme/images/i-sejarah.jpg'?>" alt="Free HTML5 Template" class="img-responsive">
 				</figure>
 			</div>
 			<div class="col-md-6">
@@ -143,7 +143,7 @@
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</div>
-					<div class="col-md-4 fh5co-staff" style="position: relative; margin: 0, 10px;">
+					<div class="col-md-4 fh5co-staff">
 						<img src="<?php echo base_url().'theme/images/person4.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Nirmalasari S.Pd.,</h3>
 						<h4>Pembina</h4>
