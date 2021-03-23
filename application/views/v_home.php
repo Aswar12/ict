@@ -43,7 +43,7 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
+				<h1 class="light"><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
 				<nav role="navigation">
 					<ul>
 						<li class="active"><a href="<?php echo base_url().''?>">Home</a></li>
