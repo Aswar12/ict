@@ -61,7 +61,7 @@
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h1 style="color: rgb(99, 5, 5); font-weight: bolder; font-size: 150px;">ICT</h1>
-		   					<h2 class="fh5co-lead" style="font-size: 60px;">INFORMATION COMMUNICATION AND TECHNOLOGY</h2>
+		   					<h2 class="fh5co-lead">INFORMATION COMMUNICATION AND TECHNOLOGY</h2>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -73,7 +73,7 @@
 	<div class="fh5co-about animate-box">
 		<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 			<h2>Sejarah ICT</h2>
-			<p>ICT adalah singkatan dari INFORMATION COMMUNICATION AND TECHNOLOGY yang pada awalnya adalah sebuah pengembangan diri di bidang TIK dan pada tanggal 26 Maret 2017 yang resmi berdiri menjadi salah satu ekstra kurikuler di SMA Negeri 2 Pangkep</p>
+			<p>ICT adalah singkatan dari INFORMATION COMMUNICATION AND TECHNOLOGY yang pada awalnya adalah sebuah pengembangan diri di bidang TIK dan pada tanggal 26 Maret 2017 resmi berdiri menjadi salah satu ekstra kurikuler di SMA Negeri 2 Pangkep</p>
 		</div>
 		<div class="container">
 			<div class="col-md-6">
@@ -89,8 +89,8 @@
 				<h3>Misi</h3>
 				<ul>
 					<li>Mengembangkan karakter diri dengan skill yang dikuasai demi menghadapi kemajuan dan perkembangan teknologi.</li>
-					<li>Menciptakan lingkungan beroraganisasi yang pandai bicara, cermat berteknologi, dan jujur dalam berimformasi.</li>
-					<li>Mengembangkan media komunikasi yang terupdate sebagai alat penyampaian imformasi yang valid.</li>
+					<li>Menciptakan lingkungan beroraganisasi yang pandai bicara, cermat berteknologi, dan jujur dalam berinformasi.</li>
+					<li>Mengembangkan media komunikasi yang terupdate sebagai alat penyampaian informasi yang valid.</li>
 				</ul>
 			</div>
 		</div>
@@ -105,10 +105,10 @@
 						<p>ICT berada di bawah binaan Guru SMA Negeri 2 Pangkep.</p>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/person3.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="<?php echo base_url().'theme/images/P1_Pak_Arman_Jaya.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Arman Jaya S.Pd., M.Pd.,</h3>
 						<h4>Pembina Utama</h4>
-						<p>M Fikri adalah seorang senior engineer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<p>Kemampuan bidang IT terasah karena usaha yang dilakukan untuk mempelajari perkembangan dunia Teknologi.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -118,10 +118,10 @@
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/person2.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="<?php echo base_url().'theme/images/p2_Pak_Lukman.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Lukman Ar.</h3>
 						<h4>Pembina</h4>
-						<p>Dedi Irawan adalah seorang web designer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<p>Mempelajari bidang IT dengan Autodidak tanpa kursus ataupun semacamnya.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -131,10 +131,10 @@
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/person4.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="<?php echo base_url().'theme/images/P3_Pak_Anto.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Adriyanto S.Pd.,</h3>
 						<h4>Pembina</h4>
-						<p>Afif Ma'ruf adalah seorang web designer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -144,10 +144,10 @@
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/person4.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="<?php echo base_url().'theme/images/P6_Bu_Nirmala.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Nirmalasari S.Pd.,</h3>
 						<h4>Pembina</h4>
-						<p>Afif Ma'ruf adalah seorang web designer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<p>Tak ada batasan untuk seorang perempuan ikut andil dalam perkembangan dunia teknologi.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>

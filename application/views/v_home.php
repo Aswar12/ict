@@ -128,7 +128,7 @@
 
 	<div class="fh5co-section-with-image">
 
-		<img src="<?php echo base_url().'theme/images/image_1.jpg'?>" alt="" class="img-responsive">
+		<img src="<?php echo base_url().'theme/images/pinict.jpg'?>" alt="" class="img-responsive">
 		<div class="fh5co-box animate-box">
 			<h2>Tentang ICT</h2>
 			<p>Ekstra Kurikuler yang Bergerak di Bidang Teknologi Terkhususnya Komputer.</p>
