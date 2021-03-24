@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
-	<meta name="author" content="M Fikri Setiadi" />
+	<meta name="author" content="Admin ICT" />
 	<link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/logoict.png'?>">
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -43,7 +43,8 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1 class="light"><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
+				<img src="<?php echo base_url().'assets/images/logoict.png'?>" width='60px'>
+				<h1 ><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
 				<nav role="navigation">
 					<ul>
 						<li class="active"><a href="<?php echo base_url().''?>">Home</a></li>
