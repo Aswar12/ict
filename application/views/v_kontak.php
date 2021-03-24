@@ -116,7 +116,6 @@
 
 
 	<?php $this->load->view('v_footer');?>
-	</div>
 
 
 	<!-- jQuery -->
