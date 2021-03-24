@@ -199,7 +199,7 @@
 						<img src="<?php echo base_url().'theme/images/k3_hegar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Hegar H.m</h3>
 						<h4>ANGKATAN III</h4>
-						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
+						<p>Use your smile to change this world. Don't let this world change your smile..</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -214,7 +214,7 @@
 						<img src="<?php echo base_url().'theme/images/k4_fajar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Ahmad fajar Asri</h3>
 						<h4>ANGKATAN IV</h4>
-						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
+						<p>Gagal itu urusan nanti yang terpenting kita berani mencoba dan mencoba.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>

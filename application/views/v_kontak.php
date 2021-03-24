@@ -28,6 +28,9 @@
 
 	</head>
 	<body>
+
+
+	<div id="fh5co-page">
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
@@ -111,11 +114,10 @@
 		</div>
 	</div>
 
-	
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.7325683426548!2d119.58475583013585!3d-4.641722613157694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dbe4faaaaee308b%3A0xfba1d672cb27e240!2sSMA%20Negeri%202%20Pangkep!5e0!3m2!1sid!2sid!4v1616484863496!5m2!1sid!2sid" width="100%" height="450px"  loading="lazy"></iframe>
 
-
 	<?php $this->load->view('v_footer');?>
+	</div>
 
 
 	<!-- jQuery -->
@@ -129,7 +131,8 @@
 	<!-- Flexslider -->
 	<script src="<?php echo base_url().'theme/js/jquery.flexslider-min.js'?>"></script>
 	<!-- Google Map -->
-	
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+	<script src="<?php echo base_url().'theme/js/google_map.js'?>"></script>
 
 	<!-- MAIN JS -->
 	<script src="<?php echo base_url().'theme/js/main.js'?>"></script>

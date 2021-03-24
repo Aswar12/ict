@@ -79,7 +79,7 @@
   <div class="fh5co-about animate-box">
   <div class="container">
     <div class="row"><br/>
-      <center><h2>Awesome Gallery</h2></center>
+      <center><h2>Dokumentasi</h2></center>
       <?php	foreach ($data->result() as $row) :	?>
       <div class="col-md-4">
         <a class="example-image-link" href="<?php echo base_url().'assets/images/'.$row->galeri_gambar;?>" data-lightbox="example-2" data-title="<?php echo $row->galeri_judul;?>"><img class="example-image img-responsive" src="<?php echo base_url().'assets/images/'.$row->galeri_gambar;?>" alt="image-1"/></a>
