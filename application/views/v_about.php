@@ -227,7 +227,7 @@
 						<img src="<?php echo base_url().'theme/images/k5_perdi.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Perdi</h3>
 						<h4>ANGKATAN V</h4>
-						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
+						<p>Stay Hungry, Stay Foolish.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
