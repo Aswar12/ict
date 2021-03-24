@@ -211,7 +211,7 @@
 				</div>
 			<div class="row">
 				<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/k3_hegar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="<?php echo base_url().'theme/images/k4_fajar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
 						<h3>Ahmad fajar Asri</h3>
 						<h4>ANGKATAN IV</h4>
 						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
