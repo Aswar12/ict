@@ -457,11 +457,11 @@ h1.judul {
 }
 
 #fh5co-header h1 {
-  background-color: #000000;
   float: left;
   font-weight: 700;
   line-height: 0;
-  font-size: 30px;
+  font-size: 39px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 #fh5co-header h1 a {
@@ -483,6 +483,14 @@ h1.judul {
 #fh5co-header nav {
   margin: 38px 0 0 0;
 }
+
+#fh5co-header .navict img {
+  padding: 0;
+  border-radius: 4px;
+
+
+}
+
 
 #fh5co-header nav {
   float: right;
@@ -1293,7 +1301,7 @@ h1.judul {
 }
 
 #fh5co-footer {
-  padding: 2em 0px;
+  padding: 1em 0px;
   float: left;
   width: 100%;
   position: relative;
@@ -1302,7 +1310,7 @@ h1.judul {
 
 @media screen and (max-width: 768px) {
   #fh5co-footer {
-    padding: 3em 0;
+    padding: 1em 0;
   }
 }
 
@@ -1320,7 +1328,7 @@ h1.judul {
 }
 
 #fh5co-footer [class*="col"] {
-  padding-bottom: 30px;
+  padding-bottom: -10px;
 }
 
 #fh5co-footer .btn {
@@ -1346,7 +1354,7 @@ h1.judul {
 
 #fh5co-footer ul li {
   padding: 0;
-  margin: 0 0 10px 0;
+  margin: 0 0 5px 0;
   list-style: none;
 }
 
@@ -1361,7 +1369,7 @@ h1.judul {
 
 .fh5co-copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
-  margin-top: 40px !important;
+  margin-top: 30px !important;
   padding: 0 0 0;
 }
 

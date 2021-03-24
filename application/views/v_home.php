@@ -32,7 +32,6 @@
                 $words = explode(" ",$string);
                 return implode(" ",array_splice($words,0,$word_limit));
             }
-
         ?>
 
 	</head>
@@ -43,9 +42,12 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<img src="<?php echo base_url().'assets/images/logoict.png'?>" width='60px'>
+			<a class="navbar-brand" href="#">
+				<img src="<?php echo base_url().'assets/images/logoict.png'?>" width='70px'>
 				<h1 ><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
+			
 				<nav role="navigation">
+				</a>
 					<ul>
 						<li class="active"><a href="<?php echo base_url().''?>">Home</a></li>
 						<li><a href="<?php echo base_url().'about'?>">About</a></li>
