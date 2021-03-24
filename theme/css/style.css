@@ -1293,7 +1293,7 @@ h1.judul {
 }
 
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 2em 0px;
   float: left;
   width: 100%;
   position: relative;
@@ -1361,9 +1361,8 @@ h1.judul {
 
 .fh5co-copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
-  clear: both;
   margin-top: 40px !important;
-  padding: 40px 0 0 0;
+  padding: 0 0 0;
 }
 
 .fh5co-copyright span {
