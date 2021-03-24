@@ -44,8 +44,7 @@
 			<div class="header-inner">
 				<img class="logo" src="<?php echo base_url().'assets/images/logoict.png'?>" width='70px'>
 				<h1 ><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
-				<nav role="navigation">
-				
+				<nav role="navigation">	
 					<ul>
 						<li class="active"><a href="<?php echo base_url().''?>">Home</a></li>
 						<li><a href="<?php echo base_url().'about'?>">About</a></li>

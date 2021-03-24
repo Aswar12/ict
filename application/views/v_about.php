@@ -35,7 +35,8 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
+			<img class="logo" src="<?php echo base_url().'assets/images/logoict.png'?>" width='70px'>
+				<h1 ><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
 				<nav role="navigation">
 					<ul>
 						<li><a href="<?php echo base_url().''?>">Home</a></li>
@@ -165,14 +166,14 @@
 
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-						<h2>Pembina</h2>
-						<p>ICT berada di bawah binaan Guru SMA Negeri 2 Pangkep.</p>
+						<h2>Generasi ICT</h2>
+						<p>SMAN 2 PANGKEP </p>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/P1_Pak_Arman_Jaya.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Arman Jaya S.Pd., M.Pd.,</h3>
-						<h4>Pembina Utama</h4>
-						<p>Kemampuan bidang IT terasah karena usaha yang dilakukan untuk mempelajari perkembangan dunia Teknologi.</p>
+						<img src="<?php echo base_url().'theme/images/k1_wahidin.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Wahidin</h3>
+						<h4>ANGKATAN I</h4>
+						<p>Hiduplah seperti larry</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -182,22 +183,22 @@
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/p2_Pak_Lukman.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Lukman Ar.</h3>
-						<h4>Pembina</h4>
-						<p>Mempelajari bidang IT dengan Autodidak tanpa kursus ataupun semacamnya.</p>
+						<img src="<?php echo base_url().'theme/images/k2_aswar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Aswar Sumarlin</h3>
+						<h4>ANGKATAN II</h4>
+						<p>"It does not really matters what we bear, what really matters how we bear it"</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-instagram"></i></a></li>
+							<li><a href="https://www.aswar12.github.io"><i class="icon-dribbble"></i></a></li>
+							<li><a href="https://twitter.com/SumarlinAswar"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/aswar.sumarlin"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://www.instagram.com/aswar_sumarlin/"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/P3_Pak_Anto.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Adriyanto S.Pd.,</h3>
-						<h4>Pembina</h4>
+						<img src="<?php echo base_url().'theme/images/k3_hegar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Hegar H.m</h3>
+						<h4>ANGKATAN III</h4>
 						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
@@ -207,11 +208,13 @@
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</div>
-					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url().'theme/images/P6_Bu_Nirmala.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Nirmalasari S.Pd.,</h3>
-						<h4>Pembina</h4>
-						<p>Tak ada batasan untuk seorang perempuan ikut andil dalam perkembangan dunia teknologi.</p>
+				</div>
+			<div class="row">
+				<div class="col-md-4 fh5co-staff">
+						<img src="<?php echo base_url().'theme/images/k3_hegar.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Ahmad fajar Asri</h3>
+						<h4>ANGKATAN IV</h4>
+						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
@@ -219,8 +222,21 @@
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
-					</div>
 				</div>
+				<div class="col-md-4 fh5co-staff">
+						<img src="<?php echo base_url().'theme/images/k5_perdi.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Perdi</h3>
+						<h4>ANGKATAN V</h4>
+						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
+						<ul class="fh5co-social">
+							<li><a href="#"><i class="icon-google"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
+						</ul>
+				</div>
+			</div>	
 		</div>
 	</div>
 
