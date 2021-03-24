@@ -159,6 +159,70 @@
 				</div>
 		</div>
 	</div>
+	
+	<div class="fh5co-team animate-box" style="background-color: white;">
+		<div class="container" >
+
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+						<h2>Pembina</h2>
+						<p>ICT berada di bawah binaan Guru SMA Negeri 2 Pangkep.</p>
+					</div>
+					<div class="col-md-4 fh5co-staff">
+						<img src="<?php echo base_url().'theme/images/P1_Pak_Arman_Jaya.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Arman Jaya S.Pd., M.Pd.,</h3>
+						<h4>Pembina Utama</h4>
+						<p>Kemampuan bidang IT terasah karena usaha yang dilakukan untuk mempelajari perkembangan dunia Teknologi.</p>
+						<ul class="fh5co-social">
+							<li><a href="#"><i class="icon-google"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
+						</ul>
+					</div>
+					<div class="col-md-4 fh5co-staff">
+						<img src="<?php echo base_url().'theme/images/p2_Pak_Lukman.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Lukman Ar.</h3>
+						<h4>Pembina</h4>
+						<p>Mempelajari bidang IT dengan Autodidak tanpa kursus ataupun semacamnya.</p>
+						<ul class="fh5co-social">
+							<li><a href="#"><i class="icon-google"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
+						</ul>
+					</div>
+					<div class="col-md-4 fh5co-staff">
+						<img src="<?php echo base_url().'theme/images/P3_Pak_Anto.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Adriyanto S.Pd.,</h3>
+						<h4>Pembina</h4>
+						<p>Guru matematika yang juga menyukai dunia Desain Grafis.</p>
+						<ul class="fh5co-social">
+							<li><a href="#"><i class="icon-google"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
+						</ul>
+					</div>
+					<div class="col-md-4 fh5co-staff">
+						<img src="<?php echo base_url().'theme/images/P6_Bu_Nirmala.jpg'?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Nirmalasari S.Pd.,</h3>
+						<h4>Pembina</h4>
+						<p>Tak ada batasan untuk seorang perempuan ikut andil dalam perkembangan dunia teknologi.</p>
+						<ul class="fh5co-social">
+							<li><a href="#"><i class="icon-google"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
+						</ul>
+					</div>
+				</div>
+		</div>
+	</div>
 
 
 	<?php $this->load->view('v_footer');?>

@@ -42,12 +42,10 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-			<a class="navbar-brand" href="#">
-				<img src="<?php echo base_url().'assets/images/logoict.png'?>" width='70px'>
+				<img class="logo" src="<?php echo base_url().'assets/images/logoict.png'?>" width='70px'>
 				<h1 ><a href="<?php echo base_url().''?>"><span>ICT</span> SMADAP</a></h1>
-			
 				<nav role="navigation">
-				</a>
+				
 					<ul>
 						<li class="active"><a href="<?php echo base_url().''?>">Home</a></li>
 						<li><a href="<?php echo base_url().'about'?>">About</a></li>

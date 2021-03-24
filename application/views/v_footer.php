@@ -29,7 +29,6 @@
 				</ul>
 			</div>
 
-
 			<div class="col-md-12 fh5co-copyright text-center">
 				<p>&copy; 2021 by | <a href="https://www.instagram.com/ictsmadap/" target="_blank">ICT SMAN 2 PANGKEP</a>.</p>
 			</div>
