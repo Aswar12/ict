@@ -16,9 +16,7 @@
 				<ul class="float">
 					<span class="icon"><img src="<?php echo base_url().'theme/images/logoict.png'?>" class="img-responsive" style="width: 120px; height: 120px; margin: 0;"></span>
 				</ul>
-
 			</div>
-
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Follow Us</h3>
 				<ul class="fh5co-social">
@@ -28,10 +26,8 @@
 					<li><a href="https://www.instagram.com/ictsmadap/"><i class="icon-instagram"></i></a></li>
 				</ul>
 			</div>
-
 			<div class="col-md-12 fh5co-copyright text-center">
 				<p>&copy; 2021 by | <a href="https://www.instagram.com/ictsmadap/" target="_blank">ICT SMAN 2 PANGKEP</a>.</p>
 			</div>
-
 		</div>
 	</footer>
