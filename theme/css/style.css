@@ -1319,7 +1319,8 @@ h1.judul {
   float: left;
   width: 100%;
   position: relative;
-  background: #000000;
+  background:
+    linear-gradient(to right, rgb(197, 13, 13), black);
 }
 
 @media screen and (max-width: 768px) {

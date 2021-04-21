@@ -73,7 +73,7 @@
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
-              <li class="user-header">
+              <li class="user-header" style="background: linear-gradient(to right, orange, #ec38bc, #7303c0, cyan);">
                 <img src="<?php echo base_url().'assets/images/'.$c['pengguna_photo'];?>" class="img-circle" alt="">
 
                 <p>
